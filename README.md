@@ -3,12 +3,6 @@
 ## 📌 Overview
 This project extends a Bare Metal OS with screen display features and a CLI-driven game on Raspberry Pi 3 / QEMU. It demonstrates image rendering, video playback, custom fonts, and basic game mechanics.
 
-## 👥 Team 8
-- Mai Xuan Huy (s3878672)  
-- Hoang Nghia Tri Hung (s3930336)  
-- Truong Phuoc Huy (s3891442)  
-- Vo Phuc Duy Nhat (s3868763)
-
 ## ✨ Features
 - Image display with scroll (`W`/`S`, exit with `X`)
 - Video playback (24 FPS, delay interrupts)
