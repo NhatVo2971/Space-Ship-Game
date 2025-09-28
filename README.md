@@ -16,10 +16,13 @@ Custom font rendering (bitmap conversion, color support)
 ##Game development:
 #Stage 1: Shoot monsters
 <img width="510" height="377" alt="Screenshot 2025-09-28 175922" src="https://github.com/user-attachments/assets/9aa77517-03bf-42e7-9229-1dbc05fd80db" />
+
 #Stage 2: Boss fight with bombs
 <img width="570" height="426" alt="Screenshot 2025-09-28 175929" src="https://github.com/user-attachments/assets/425168d3-81a5-4657-a26c-ea9f70a8d096" />
+
 #Pause / Restart / Quit menu
 <img width="627" height="474" alt="Screenshot 2025-09-28 175942" src="https://github.com/user-attachments/assets/378553b1-a657-492c-8c6e-8233886b4b49" />
+
 #Score & health system
 <img width="191" height="237" alt="Screenshot 2025-09-28 175935" src="https://github.com/user-attachments/assets/041a40d2-749f-42ad-bc98-ca48f8af5aa6" />
 
