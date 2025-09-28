@@ -3,3 +3,4 @@
 kernel8.img filter=lfs diff=lfs merge=lfs -text
 kernel8.elf filter=lfs diff=lfs merge=lfs -text
 display_video.o filter=lfs diff=lfs merge=lfs -text
+running_video.h filter=lfs diff=lfs merge=lfs -text
