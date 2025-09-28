@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 kernel8.img filter=lfs diff=lfs merge=lfs -text
+kernel8.elf filter=lfs diff=lfs merge=lfs -text
